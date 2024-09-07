@@ -1,4 +1,5 @@
 # period
+Basic pages and design of a program that allows women to track their periods
 
 A new Flutter project.
 
